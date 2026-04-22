@@ -26,7 +26,7 @@
 
 /* ******** CONFIG: UMBRAL ******** */
 #define UMBRAL 2000             // Punto medio aproximado para 4095 valores
-#define DELAY_PRINT 250         // Asignar medio segundo de espera para impresiones
+#define DELAY_PRINT 125         // Asignar medio segundo de espera para impresiones
 
 /* ******** VARIABLES ******** */
 extern int N;
